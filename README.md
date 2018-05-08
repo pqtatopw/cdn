@@ -1,1 +1,1 @@
-# Pqtato's CDN
+# PqtatoCDN
